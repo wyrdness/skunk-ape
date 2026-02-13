@@ -1,15 +1,126 @@
 {
-  "id": "skunk-ape",
-  "name": "Skunk Ape",
-  "category": "CRYPTID",
-  "subcategory": "Hominid",
-  "version": "1.0.0",
-  "last_updated": "2026-01-14",
-  "status": "documented",
-  "has_readme": true,
-  "has_sources": true,
-  "has_media": false,
-  "has_sightings": false,
-  "source_count": "50+",
-  "documentation_quality": "comprehensive"
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-02-13",
+    "repository": "https://github.com/wyrdness/skunk-ape",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+  "phenomenon": {
+    "id": "skunk-ape",
+    "name": "Skunk Ape",
+    "aliases": [],
+    "category": "CRYPTID",
+    "subcategory": "Hominid",
+    "tags": [
+      "folklore",
+      "mythology"
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "The **Skunk Ape** is a cryptid hominid reported primarily from the swamps, forests, and wetlands of Florida and the southeastern United States.",
+      "full": "The **Skunk Ape** is a cryptid hominid reported primarily from the swamps, forests, and wetlands of Florida and the southeastern United States. Often described as the Florida equivalent of Bigfoot or Sasquatch, the Skunk Ape derives its name from its most distinctive characteristic: an overwhelming, foul odor reminiscent of rotten eggs, skunk spray, methane, or decaying garbage. Standing between 6 to 7 feet tall and covered in dark, often reddish-brown or black matted hair, this creature has been the subject of numerous sightings, photographs, and local folklore since the 1960s. Unlike its Pacific Northwest cousin, the Skunk Ape is specifically adapted to subtropical and swamp environments, with witnesses often reporting it wading through water, hiding among cypress trees, or foraging in marshy areas. The creature's infamous stench is believed by some researchers to result from its habit of bedding down in alligator caves or feeding on decaying organic matter in swamp environments. The most famous evidence of the Skunk Ape came in 2000 when an anonymous woman mailed photographs to the Sarasota County Sheriff's Department, showing what appeared to be a large, ape-like creature in her backyard. These \\\"Myakka photographs\\\" remain among the most debated pieces of cryptozoological evidence and helped cement the Skunk Ape's place in Florida folklore."
+    },
+    "etymology": {
+      "origin": "American (Florida), 1960s-present",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
+    }
+  },
+  "classification": {
+    "taxonomy": {
+      "category": "CRYPTID",
+      "type": "Hominid",
+      "subtype": "Unknown",
+      "variant": "Unknown"
+    },
+    "related_phenomena": []
+  },
+  "characteristics": {
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
+    },
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
+  },
+  "distribution": {
+    "range": {
+      "description": "American (Florida), 1960s-present",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
+    }
+  },
+  "history": {
+    "origins": {
+      "cultural_roots": "American (Florida), 1960s-present",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
+    },
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
+    }
+  },
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
 }
