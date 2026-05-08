@@ -1,314 +1,229 @@
 # Skunk Ape
 
+> The Skunk Ape is a bipedal, ape-like cryptid reported primarily in the swamps and forests of Florida and the wider southeastern United States, named for the strong, foul odor associated with its reported encounters.
+
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-07-green)]() [![Sightings](https://img.shields.io/badge/sightings-300-orange)]() ![Status](https://img.shields.io/badge/status-active-blue)
+
+---
+## Quick Reference
+
+| Property | Value |
+|---|---|
+| **ID** | `skunk-ape` |
+| **Category** | CRYPTID |
+| **Subcategory** | Hominid / great-ape-like cryptid |
+| **First recorded** | 1818 |
+| **Primary range** | Reports concentrate in central and southern Florida, with secondary clusters across Georgia, Alabama, and the wider southeastern coastal plain |
+| **Status** | active |
+
+---
 ## Overview
 
-The **Skunk Ape** is a cryptid hominid reported primarily from the swamps, forests, and wetlands of Florida and the southeastern United States. Often described as the Florida equivalent of Bigfoot or Sasquatch, the Skunk Ape derives its name from its most distinctive characteristic: an overwhelming, foul odor reminiscent of rotten eggs, skunk spray, methane, or decaying garbage. Standing between 6 to 7 feet tall and covered in dark, often reddish-brown or black matted hair, this creature has been the subject of numerous sightings, photographs, and local folklore since the 1960s.
+The Skunk Ape is the regional Florida and Gulf-Coast variant of the broader North American hairy-hominid cryptid complex usually grouped under 'Bigfoot'. Witnesses describe a bipedal, ape-like creature roughly 1.5–2.1 m (5–7 ft) tall, covered in mottled reddish-brown or dark hair, often associated with a powerful odor likened to skunk, sulphur, or rotting eggs. Reports cluster in the Everglades, Big Cypress National Preserve, and surrounding cypress swamps and pine flatwoods. The phenomenon entered wide public attention in the 1970s with a wave of sightings in Broward County, Florida, and again around 2000 with the so-called 'Myakka photographs' submitted anonymously to the Sarasota County Sheriff's Office. Mainstream zoological consensus, including statements from the U.S. National Park Service, treats the Skunk Ape as folklore, hoax, or misidentification — most often of Florida black bears, occasionally of escaped exotic primates. A small number of dedicated researchers, most notably Everglades-based naturalist David Shealy, continue field investigations.
 
-Unlike its Pacific Northwest cousin, the Skunk Ape is specifically adapted to subtropical and swamp environments, with witnesses often reporting it wading through water, hiding among cypress trees, or foraging in marshy areas. The creature's infamous stench is believed by some researchers to result from its habit of bedding down in alligator caves or feeding on decaying organic matter in swamp environments.
+---
+## Names & Aliases
 
-The most famous evidence of the Skunk Ape came in 2000 when an anonymous woman mailed photographs to the Sarasota County Sheriff's Department, showing what appeared to be a large, ape-like creature in her backyard. These "Myakka photographs" remain among the most debated pieces of cryptozoological evidence and helped cement the Skunk Ape's place in Florida folklore.
+| Name | Origin | Meaning |
+|---|---|---|
+| Florida Bigfoot | Florida, USA |  |
+| Swamp Ape | Florida, USA |  |
+| Bardin Booger | Bardin, Putnam County, Florida, USA |  |
+| Esti Capcaki | Reported as Seminole/Miccosukee / Florida, USA | Reported as 'Furry Tall Man' / 'Hairy Giant' |
 
-## Names and Etymology
+## Etymology
 
-- **Skunk Ape**: Primary name referencing its powerful, foul odor
-- **Swamp Ape**: Alternative name emphasizing its swamp habitat
-- **Florida Bigfoot**: Comparison to the better-known Pacific Northwest cryptid
-- **Myakka Ape**: Named after the 2000 Myakka photographs
-- **Stink Ape**: Colloquial variant emphasizing the smell
-- **Florida Skunk Ape**: Regional specification
-- **Bardin Booger**: Local name from Putnam County, Florida
-- **Barna Ape**: North Florida regional variant
-- **Booger**: General southeastern U.S. term for similar creatures
+- **Origin**: American English regional usage, southeastern United States.
+- **Meaning**: Named for the foul, skunk-like odor reported in close encounters.
+- **First use**: In wide print circulation by the 1970s; isolated 'man-sized monkey' reports in Florida newspapers go back to the early 19th century.
 
+---
+## Related Phenomena
+
+- [Bigfoot / Sasquatch](../bigfoot/) — _superset_: Broader North American hairy-hominid cryptid complex; Skunk Ape is treated as the southeastern regional variant
+- [Fouke Monster](../fouke-monster/) — _regional_variant_: Hairy hominid cryptid of the Boggy Creek area, Arkansas
+- [Honey Island Swamp Monster](../honey-island-swamp-monster/) — _regional_variant_: Louisiana swamp-dwelling hominid cryptid
+- [Momo (Missouri Monster)](../momo/) — _regional_variant_: Missouri hairy hominid cryptid
+
+---
 ## Physical Description
 
-### General Appearance
-- **Height**: 6 to 7 feet tall, occasionally reported up to 8 feet
-- **Weight**: Estimated 300-400 pounds based on footprints and witness descriptions
-- **Build**: Powerfully built, broad shoulders, muscular frame
-- **Posture**: Bipedal, slightly stooped when standing
-- **Gait**: Long strides, capable of moving through difficult swamp terrain
+- **Height**: 1.5–2.1 meters _(low confidence)_
+- **Weight**: 130–270 kilograms _(low confidence)_
+- **Coloration**: reddish-brown, dark brown, black, mottled
+- **Morphology**: Bipedal hominid morphology comparable to Bigfoot reports, but generally smaller, often described as adapted to wet, swampy, subtropical habitat.
 
-### Physical Features
-- **Hair**: Covered in long, shaggy hair; typically dark brown, reddish-brown, or black
-- **Hair Condition**: Often described as matted, wet, or muddy from swamp environment
-- **Face**: Ape-like or human-like features with a flat nose
-- **Eyes**: Dark or reddish, often described as glowing at night (likely eyeshine)
-- **Arms**: Long arms extending past the knees
-- **Hands**: Large, human-like hands with thick fingers
-- **Feet**: Large footprints, 13-17 inches long, showing five toes
+### Features
 
-### Distinguishing Characteristics
-- **Odor**: Overwhelmingly foul smell, the creature's most consistent feature
-- **Smell Description**: Rotten eggs, sulfur, skunk spray, methane, garbage, decaying flesh
-- **Habitat Indicators**: Hair often caked with mud, plant matter, or algae
-- **Vocalizations**: Described as whoops, screams, howls, or guttural growls
-- **Nocturnal Nature**: Most sightings occur at night or during twilight hours
+| Feature | Description | Frequency |
+|---|---|---|
+| Bipedal locomotion | Walks upright on two legs | always |
+| Body hair | Coarse, often reddish-brown or dark hair covering the entire body | always |
+| Foul odor | Strong, persistent skunk-like, sulphurous, or rotten-egg smell that gives the cryptid its name | common |
+| Smaller than northern Bigfoot | Generally reported as shorter and slighter than Pacific Northwest Sasquatch reports | common |
 
-## Behavior and Characteristics
+## Reported Abilities
 
-### Habitat and Range
-- **Primary Range**: Throughout Florida, especially in the Everglades and Big Cypress National Preserve
-- **Extended Range**: Reported in southern Georgia, Alabama, Mississippi, and Louisiana
-- **Preferred Habitat**: Swamps, wetlands, cypress groves, hardwood hammocks
-- **Den Sites**: Allegedly uses alligator caves, hollow cypress trees, and dense thickets
-- **Water Affinity**: Comfortable wading through water and navigating swampy terrain
+| Ability | Description | Frequency | Evidence |
+|---|---|---|---|
+| Wading and swimming | Reported moving through swamp water, sloughs, and cypress wetlands | common | reported |
+| Stealth | Reported to disappear quickly into dense vegetation despite size | common | reported |
+| Crop and bait raiding | Reports of raiding gardens, fruit, and bait stations (e.g., Shealy's lima-bean stations) | occasional | reported |
 
-### Behavioral Patterns
-- **Activity**: Primarily nocturnal or crepuscular
-- **Movement**: Moves quietly despite size; capable of disappearing quickly into swamps
-- **Territorial**: Some researchers suggest territorial behavior based on repeated sightings in specific areas
-- **Avoidance**: Generally avoids human contact, though occasionally investigates human structures
-- **Foraging**: Witnesses report seeing it eating fish, plants, small animals, and raiding garbage
+## Behavior
 
-### Interactions with Humans
-- **Human Avoidance**: Typically flees when detected by humans
-- **Property Visits**: Sometimes reported near homes adjacent to swampland
-- **Garbage Raids**: Occasionally reported overturning trash cans or investigating campsites
-- **No Attacks**: No verified reports of attacks on humans
-- **Photographic Evidence**: Subject of several photographs and videos, though authenticity disputed
+- **Activity**: crepuscular
+- **Disposition**: neutral
+- **Social structure**: solitary
+- **Habitat**: Cypress swamp, Pine flatwoods, Everglades wetlands, Mangrove margins, Rural agricultural fringe
+- **Diet**: Reported as omnivorous: fruit and vegetable raids, possible scavenging in swamp environments
 
-### Sounds and Communication
-- **Vocalizations**: Loud whooping sounds, high-pitched screams, deep growls
-- **Wood Knocking**: Some researchers report "wood knock" sounds similar to Bigfoot reports
-- **Distance Calls**: Vocalizations sometimes reported over considerable distances
-- **Warning Sounds**: Aggressive vocalizations when disturbed or cornered
+---
+## Distribution
 
-## Notable Sightings and Incidents
+Reports concentrate in central and southern Florida, with secondary clusters across Georgia, Alabama, and the wider southeastern coastal plain. According to coverage cited on the English Wikipedia article, sightings have been reported from 48 of Florida's 67 counties since 2010.
 
-### Early Reports (1960s-1970s)
-- **1960s**: First widespread reports from the Florida Everglades and Big Cypress region
-- **1971**: Reports from Broward County of a large, smelly ape-like creature
-- **1974**: Multiple sightings near Davie, Florida, including by police officers
-- **1977**: Cluster of reports from Collier County with consistent descriptions
+### Hotspots
 
-### The Dave Shealy Photographs (1997)
-- **Location**: Ochopee, Florida, in the Everglades
-- **Witness**: Dave Shealy, local Skunk Ape researcher and tour guide
-- **Evidence**: Photographs showing a dark figure among vegetation
-- **Impact**: Helped establish the Skunk Ape Research Headquarters
-- **Controversy**: Skeptics suggest photos show a person in a costume
+| Location | Region | Sightings | Peak |
+|---|---|---|---|
+| Big Cypress National Preserve | Florida, United States |  | 1997–present |
+| Myakka River area | Florida, United States |  | 2000 |
+| Bardin | Florida, United States |  | 1940s–present |
 
-### The Myakka Photographs (2000)
-- **Date**: September 2000
-- **Location**: Myakka City, Sarasota County, Florida
-- **Witness**: Anonymous woman (later identified as "I. B.")
-- **Evidence**: Two clear photographs of an ape-like creature in her backyard
-- **Letter**: Accompanying letter described creature raiding her family's apple basket
-- **Description**: Creature appeared to be eating apples, had reddish-brown hair
-- **Odor**: Letter mentioned the terrible smell that attracted her attention
-- **Investigation**: Sarasota County Sheriff's Office investigated; photos remain unexplained
-- **Analysis**: Photos show what appears to be a large primate with orangutan-like features
-- **Skepticism**: Some suggest escaped orangutan; others believe it's authentic Skunk Ape evidence
+---
+## Historical Timeline
 
-### 21st Century Reports
-- **2000-2010**: Continued sightings throughout Florida, particularly in rural and swamp areas
-- **2008**: Reports from Highlands County with multiple independent witnesses
-- **2010**: Ochopee sightings continue with tourist and local reports
-- **2013**: Trail camera photograph from Lettuce Lake Park, Tampa
-- **2015**: Multiple reports from Myakka State Forest
-- **2018**: Video evidence from Big Cypress National Preserve (disputed)
-- **2020s**: Ongoing reports from Everglades National Park visitors and locals
+| Date | Event | Significance |
+|---|---|---|
+| 1818 | Apalachicola, Florida newspaper report of a 'man-sized monkey' raiding food stores | Earliest cited 19th-century account in this lineage |
+| 1971 | Broward County, Florida sighting wave begins (5–7 ft hairy creature) | Foundational modern Skunk Ape wave |
+| 1977 | Florida legislature considers bill (HB 1664) proposing to protect 'anthropoids or humanoid animals' | Documented official-record acknowledgement of the phenomenon |
+| 1997-07-01 | David Shealy reports Skunk Ape activity at lima-bean bait stations in Big Cypress National Preserve | Beginning of the Shealy-era of Skunk Ape investigation |
+| 1997 | Ochopee Fire Control District Chief Vince Doerr photographs a dark upright figure in Big Cypress | Best-known photograph of the 1990s wave |
+| 2000-12-01 | Anonymous woman submits the 'Myakka photographs' to the Sarasota County Sheriff's Office | Most-discussed Skunk Ape photographic case |
 
-### Witness Demographics
-- **Hunters and Fishermen**: Significant portion of witnesses are outdoors enthusiasts
-- **Campers**: Reports from state park and national preserve campers
-- **Residents**: Rural homeowners near swamplands
-- **Tourists**: Visitors to Florida's natural attractions
-- **Park Rangers**: Some reports from law enforcement and wildlife officials
+---
+## Notable Sightings
 
-## Explanations and Theories
-
-### Cryptozoological Hypothesis
-**Relic Hominid**
-- Theory that Skunk Ape represents an unknown primate species
-- Could be relict population of extinct ape, possibly related to Gigantopithecus
-- Subtropical environment provides year-round food and shelter
-- Swamp habitat offers concealment and isolation from human population
-- Odor possibly results from diet, scent marking, or adaptation to swamp life
-
-**Behavioral Adaptations**
-- Unlike Bigfoot, Skunk Ape adapted to aquatic and semi-aquatic lifestyle
-- Uses water to mask scent trails from predators or to escape detection
-- Foul smell may serve defensive purpose (like skunk) or territorial marking
-- Nocturnal behavior minimizes human contact in increasingly developed areas
-
-### Misidentification Theories
-**Known Animals**
-- **Black Bears**: Florida black bears standing upright could be misidentified
-  - Bears can create bipedal tracks in mud
-  - Bears have strong odor, especially during mating season or when sick
-  - Bears raid garbage and can appear ape-like at distance
-- **Escaped Primates**: Exotic pet trade in Florida could account for some sightings
-  - Orangutans match description of Myakka photographs
-  - Escaped or released pets could survive in Florida climate
-  - Florida has history of exotic animal escapes
-
-**Environmental Factors**
-- **Swamp Gas**: Methane from decomposing vegetation can create odors and visual phenomena
-- **Lighting Conditions**: Dusk, dawn, and moonlight can distort perception of animals
-- **Shadows and Vegetation**: Dense Florida foliage can create illusions of large figures
-- **Sound Distortion**: Swamp environments can amplify and distort animal sounds
-
-### Psychological and Sociological Factors
-**Cultural Phenomenon**
-- Tourist attraction: Some areas promote Skunk Ape for economic benefit
-- Local legend becomes self-perpetuating through media attention
-- Expectation effect: People expecting to see Skunk Ape interpret ambiguous stimuli accordingly
-- Florida folklore blends with modern cryptozoology
-
-**Hoaxes and Publicity**
-- Some sightings and photographs likely deliberate hoaxes
-- Local businesses benefit from cryptid tourism
-- Internet and social media amplify unverified reports
-- Costume availability makes hoaxing easier than in past decades
-
-### Scientific Perspectives
-**Skeptical Analysis**
-- No physical evidence: bones, bodies, or verifiable DNA samples
-- Florida's swamps extensively studied by biologists without primate discovery
-- Large primate population would require breeding population of hundreds
-- Modern trail cameras and technology should have captured conclusive evidence
-- Photographs and videos can be explained by known animals or hoaxes
-
-**Anthropological Context**
-- "Wild man" legends common across cultures and geographies
-- Human tendency to populate wilderness with mysterious creatures
-- Skunk Ape fits pattern of regional Bigfoot variants across North America
-- Folklore serves social functions in communities
-
-## Cultural Impact and Legacy
-
-### Regional Identity
-- **Florida Icon**: Skunk Ape as symbol of Florida's wild spaces
-- **Tourist Attraction**: Cryptid tours, museums, and roadside attractions
-- **Local Pride**: Communities embrace Skunk Ape as distinctive local legend
-- **Environmental Awareness**: Draws attention to preservation of swamplands
-
-### Media and Popular Culture
-- **Documentaries**: Featured in numerous cryptozoology television programs
-- **Books**: Subject of cryptozoology books and field guides
-- **Films**: Appears in independent films and documentaries
-- **Internet**: Active online community sharing sightings and theories
-- **News Coverage**: Regular media attention for new sightings or evidence
-
-### Research and Investigation
-- **Skunk Ape Research Headquarters**: Dave Shealy's Ochopee facility and museum
-- **Field Researchers**: Amateur and professional cryptozoologists investigate reports
-- **Trail Cameras**: Ongoing efforts to capture photographic evidence
-- **Database Projects**: Efforts to catalog and map historical sightings
-- **Scientific Inquiry**: Some wildlife biologists interested in phenomenon from folkloric perspective
-
-### Economic Impact
-- **Tourism**: Generates revenue for Florida businesses and state parks
-- **Merchandise**: T-shirts, souvenirs, books, and other Skunk Ape products
-- **Guided Tours**: Everglades tours often mention Skunk Ape legends
-- **Local Businesses**: Restaurants, motels, and attractions capitalize on legend
-- **Film Industry**: Location for cryptid-themed productions
-
-## Comparative Cryptozoology
-
-### Relationship to Bigfoot/Sasquatch
-- **Similarities**: Large, bipedal, hairy hominid; avoids humans; leaves large footprints
-- **Differences**: 
-  - Skunk Ape smaller and adapted to wetlands vs. forests
-  - Distinctive foul odor not typically associated with Bigfoot
-  - Reddish-brown coloration more common than Pacific Northwest dark brown/black
-  - Aquatic behavior more prominent in Skunk Ape reports
-
-### Regional Cryptid Variants
-- **Fouke Monster**: Arkansas variant with similar swamp habitat
-- **Honey Island Swamp Monster**: Louisiana swamp cryptid
-- **Momo**: Missouri Monster with similar descriptions
-- **Grassman**: Ohio variant with overlapping characteristics
-- **Boggy Creek Creature**: Southern swamp-dwelling hominid reports
-
-### Primate Cryptids Worldwide
-- **Yeti**: Himalayan "Abominable Snowman"
-- **Yeren**: Chinese wildman reports
-- **Orang Pendek**: Sumatran forest hominid
-- **Yowie**: Australian cryptid hominid
-- **Almas**: Central Asian wildman traditions
-
-## Modern Investigation and Evidence
-
-### Photographic and Video Evidence
-**Myakka Photographs (2000)**
-- Most widely analyzed Skunk Ape photographs
-- Show ape-like creature with orangutan characteristics
-- Background and lighting appear consistent with genuine outdoor photography
-- No definitive proof of hoax, but also no confirmation of unknown primate
-- Debate continues between orangutan escape theory and genuine Skunk Ape
-
-**Other Visual Evidence**
-- Dave Shealy photographs (1997, 2000s)
-- Trail camera images from various locations
-- Video footage from campers and tourists
-- Most evidence inconclusive due to distance, lighting, or image quality
-
-### Physical Evidence Claims
-- **Footprints**: Numerous casts taken showing large, five-toed prints
-- **Hair Samples**: Some analyzed, typically identified as known animals or synthetic
-- **Scratch Marks**: Tree scratches attributed to Skunk Ape
-- **Bedding Sites**: Claimed nesting or sleeping areas in remote locations
-- **Vocalizations**: Audio recordings of unusual screams and howls
-
-### Methodological Challenges
-- **Vast Habitat**: Florida swamps provide enormous area for creature to remain hidden
-- **Difficult Terrain**: Wetlands impede systematic searches
-- **Weather**: Florida climate can degrade evidence quickly
-- **Alligators**: Safety concerns limit deep swamp exploration
-- **Private Property**: Much potential habitat on private land
-
-### Scientific Involvement
-- **Wildlife Biologists**: Some interested in phenomenon from behavioral ecology perspective
-- **Anthropologists**: Study Skunk Ape as modern folklore and legend
-- **Skeptical Organizations**: Apply critical thinking to claims and evidence
-- **Academic Research**: Occasional papers on cryptozoology as cultural phenomenon
-
-## Contemporary Significance
-
-### Conservation Context
-- **Habitat Preservation**: Skunk Ape legend draws attention to threatened swamplands
-- **Everglades Protection**: Mystery creature becomes ambassador for ecosystem
-- **Ecotourism**: Provides economic incentive for wilderness preservation
-- **Education**: Opportunity to teach critical thinking and scientific method
-
-### Digital Age and Social Media
-- **Online Communities**: Facebook groups, Reddit threads, YouTube channels dedicated to Skunk Ape
-- **Citizen Science**: Smartphone cameras and GPS enable better documentation
-- **Real-Time Reporting**: Social media allows immediate sharing of sightings
-- **Viral Phenomena**: Photos and videos can reach global audience instantly
-
-### Ongoing Investigations
-- **Field Research**: Continued expeditions by cryptozoology enthusiasts
-- **Technology**: Use of drones, thermal imaging, and advanced trail cameras
-- **Collaboration**: Researchers share data and coordinate search efforts
-- **Public Participation**: Encouragement of citizen scientists to report sightings
-
-## Related Phenomena
-- [Bigfoot](../bigfoot/README.md) - Pacific Northwest cryptid hominid
-- [Fouke Monster](../fouke-monster/README.md) - Arkansas swamp cryptid (if exists)
-- Honey Island Swamp Monster - Louisiana cryptid
-- [Yeti](../yeti/README.md) - Himalayan "Abominable Snowman"
-- [Orang Pendek](../orang-pendek/README.md) - Sumatran forest hominid
-- [Momo](../momo/README.md) - Missouri Monster
-- [Florida Bigfoot Sightings Database](related topics)
-
-## See Also
-- [Cryptozoology](../cryptozoology/README.md)
-- [Everglades Mysteries](related topics)
-- [Unknown Primates](related topics)
-- [Swamp Legends](related topics)
-- [Florida Folklore](related topics)
+### Myakka photographs ⭐
+> **Date**: 2000-12-01  
+> **Location**: Backyard near the Myakka River, Sarasota County, Florida  
+> **Witnesses**: 1 (Anonymous elderly resident)  
+> **Evidence**: Two photographs; Anonymous letter on sheriff's-office file  
+An elderly woman anonymously mailed two photographs and a letter to the Sarasota County Sheriff's Office reporting that an ape-like animal had been visiting her backyard at night and stealing apples. The photographs show a dark, hair-covered, ape-like figure between palmettos. The letter speculated the animal might be an escaped orangutan.
+**Credibility**: low — Most-discussed Skunk Ape photographic case; authenticity and interpretation remain disputed.
+**Sources**: Sarasota County Sheriff's Office records; Wikipedia, 'Skunk ape'
 
 ---
 
-**Version**: 1.0.0  
-**Last Updated**: 2026-01-14  
-**Category**: CRYPTID  
-**Cryptid Type**: Hominid  
-**Status**: Unverified  
-**Cultural Origin**: American (Florida), 1960s-present
+### Vince Doerr photograph ⭐
+> **Date**: 1997-01-01  
+> **Location**: Big Cypress National Preserve area, Ochopee, Florida  
+> **Witnesses**: 1 (Vince Doerr (Ochopee Fire Control District Chief))  
+> **Evidence**: Photograph  
+Ochopee Fire Control District Chief Vince Doerr photographed a dark, upright figure crossing open ground in the Big Cypress region during the 1997 wave of Skunk Ape activity. The photograph circulated widely as one of the better-known images associated with the phenomenon.
+**Credibility**: low — One of the central photographic cases of the 1997 Big Cypress wave.
+**Sources**: Wikipedia, 'Skunk ape'
 
-*The Skunk Ape remains one of Florida's most enduring mysteries, a subtropical counterpart to the Pacific Northwest's Bigfoot. Whether real creature, misidentified bear, escaped exotic pet, or purely folklore, the legend continues to captivate residents and visitors to Florida's wild swamplands, serving as a reminder of the mysteries that may still lurk in America's remaining wilderness areas.*
+---
+
+### Broward County sighting wave (start)
+> **Date**: 1971-01-01  
+> **Location**: Broward County, southeast Florida (suburban–wildland fringe)  
+> **Witnesses**: 10 (Residents, Local law enforcement)  
+> **Evidence**: Contemporary newspaper coverage  
+Beginning in 1971, Broward County experienced a sustained wave of reports of a 5–7 ft hairy creature with dark red or black fur, including reports of livestock kills, attempted home incursions, and pursuit by armed posses. The wave continued through approximately 1975.
+**Credibility**: low — Foundational modern Skunk Ape wave.
+**Sources**: Wikipedia, 'Skunk ape'
+
+---
+
+
+## Evidence
+
+### Photographic
+
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Myakka photographs | 2000-12 | Two flash photographs of a dark, hair-covered ape-like figure submitted anonymously to the Sarasota County Sheriff's Office. | disputed |
+| Vince Doerr photograph | 1997 | Daytime photograph by Ochopee Fire Control District Chief Vince Doerr of an upright dark figure in the Big Cypress region. | disputed |
+
+---
+## Theories & Explanations
+
+### Scientific
+
+**Regional Bigfoot population** _(David Shealy, Loren Coleman)_
+
+The Skunk Ape is the southeastern regional expression of an unrecognized North American great-ape population, adapted to subtropical swamp habitat.
+
+### Skeptical
+
+**Misidentified Florida black bear** _(Joe Nickell, U.S. National Park Service)_
+
+Many Skunk Ape reports are best explained as Florida black bears (Ursus americanus floridanus), particularly mange-affected individuals walking briefly upright.
+
+**Escaped exotic primates** _(Skeptical investigators (general))_
+
+Some isolated cases — including the Myakka photographs — are most plausibly explained by escaped exotic primates (particularly orangutans), as suggested by the anonymous Myakka letter itself.
+
+**Hoax and folkloric persistence** _(Joe Nickell)_
+
+The Skunk Ape is a regional folkloric figure sustained by hoaxes, tourism, and media, with sighting waves correlated with publicity rather than ecology.
+
+
+## Indigenous Perspectives
+
+> ⚠️ **Where Indigenous tradition is invoked, it should be attributed carefully and not used as cover for non-Indigenous cryptozoological narratives.**
+
+**Cultures**: Seminole (reported), Miccosukee (reported)
+
+Some popular treatments cite a Seminole/Miccosukee 'Esti Capcaki' tradition; the precise Indigenous attestation and cultural context are not well documented in academic literature.
+
+_Guidelines: Defer to Seminole and Miccosukee voices on whether and how to discuss culturally specific terms._
+
+## Popular Culture
+
+**Literature**: Bigfoot! The True Story of Apes in America — Loren Coleman (2003); The Skunk Ape Story — Dave Shealy (privately published)
+
+**Film / TV**: Skunk Ape! (Animal Planet, Lost Tapes, 2009); Numerous episodes of Finding Bigfoot (Animal Planet, 2011–2018) covering Florida
+
+**Other**: Skunk Ape Research Headquarters / Trail Lakes Campground (Ochopee, Florida); Florida roadside-attraction culture
+
+---
+## Research
+
+### Researchers
+
+| Name | Affiliation | Contribution | Period |
+|---|---|---|---|
+| David 'Dave' Shealy | Skunk Ape Research Headquarters, Ochopee, Florida | Long-running Big Cypress field investigations, popular outreach, photographic and footprint records | 1990s–present |
+| Loren Coleman | International Cryptozoology Museum | Cataloguing of southeastern hairy-hominid reports including the Skunk Ape | 1970s–present |
+| Joe Nickell | Committee for Skeptical Inquiry | Skeptical investigation and bear-misidentification analyses | 1990s–present |
+
+### Organizations
+
+- [Skunk Ape Research Headquarters](https://skunkape.info) — Field reports, photographs, and public outreach in Big Cypress, Florida
+
+Continuing report collection by Shealy and BFRO-style volunteer networks; mainstream wildlife agencies (notably the Florida Fish and Wildlife Conservation Commission and the U.S. National Park Service) do not recognize the Skunk Ape as a biological species.
+
+---
+## Sources
+
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
+
+
+## How to Report a Sighting
+
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
+
+---
+## License
+
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
+
+---
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._
